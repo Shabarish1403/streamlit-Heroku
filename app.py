@@ -1,4 +1,4 @@
-import Streamlit.app as st
+import streamlit as st
 
 st.write("""
 # Multiplication of two Numbers
